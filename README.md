@@ -39,32 +39,81 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## 🚀 Deployment Tools
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
+- [GoDaddy](http://godaddy.com/)
+- [Render](https://render.com/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 💻 Platforms
+- [CodeSandbox](https://codesandbox.io)
+- [Replit](https://replit.com/~)
+- [Babel](https://babeljs.io/)
+- [Karel IDE (Stanford)](https://stanford.edu/~cpiech/karel/ide.html)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🧾 Utilities
+- [Diff Checker](https://diffchecker.com)
+- [JSON Viewer](https://jsonformatter.org/json-viewer)
+- [CSS Tricks](https://css-tricks.com/)
+- [React](https://react.dev/)
+- [React-Router](https://reactrouter.com/)
+- [Tailwind](https://tailwindcss.com/)
+- [NPM](https://www.npmjs.com/)
 
-### Code Splitting
+## 🧩 Chrome Extensions
+- [Pesticide for Chrome](https://chromewebstore.google.com/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi)
+- [HTML Tree Generator](https://chromewebstore.google.com/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg)
+- [AdBlock](https://chromewebstore.google.com/detail/adblock-%E2%80%94-block-ads-acros/gighmmpiobklfepjocnamgkkbiglidom)
+- [Web Paint Tool](https://chromewebstore.google.com/detail/web-paint-tool-draw-onlin/iklgljbighkgbjoecoddejooldolenbj)
+- [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- [JSON Viewer Pro](https://chromewebstore.google.com/detail/eifflpmocdbdmepbjaopkkhbfmdgijcc?utm_source=item-share-cb)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🧰 Ready-Made UI Tools & Components
+- [Uiverse](https://uiverse.io/)
+- [CodePen](https://codepen.io/)
+- [shadcn/ui](https://ui.shadcn.com/)
+- [Material UI](https://mui.com/material-ui/)
+- [Aceternity UI](https://ui.aceternity.com/)
+- [Magic UI](https://magicui.design/)
+- [Ant Design](https://ant.design/)
+- [Shields.io (Badges)](https://shields.io/)
+- [Anime.js](https://animejs.com/)
+- [Favicon Generator](https://www.favicon.cc/)
 
-### Analyzing the Bundle Size
+## 🎨 Icons
+- [Font Awesome](https://fontawesome.com/)
+- [PNG Wing](https://www.pngwing.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 📝 Paragraph
+- [Bacon Ipsum](https://baconipsum.com/)
+- [Bro Ipsum](https://www.broipsum.com/)
+- [Lorem Ipsum](https://www.lipsum.com/feed/html)
 
-### Making a Progressive Web App
+## 🔤 Fonts
+- [Google Fonts](https://fonts.google.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🖼️ Backgrounds
+- [Transparent Textures](https://transparenttextures.com/)
 
-### Advanced Configuration
+## 🖼️ Random Photos
+- [Picsum Photos](https://picsum.photos/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🎨 Color Tools
 
-### Deployment
+### 🎛️ Color Mixers
+- [RGB Mixer (CS Field Guide)](https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/)
+- [Adobe Color Mixer](https://color.adobe.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### 🎨 Color Palettes
+- [Color Hunt](https://colorhunt.co/)
+- [Flat UI Colors - US Palette](https://flatuicolors.com/palette/us)
 
-### `npm run build` fails to minify
+### 🌈 Gradient Generator
+- [CSS Gradient](https://cssgradient.io/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 🎟️ CSS Color Names
+- [Named Colors - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
+
+
+
+
