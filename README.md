@@ -59,6 +59,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - [React-Router](https://reactrouter.com/)
 - [Tailwind](https://tailwindcss.com/)
 - [NPM](https://www.npmjs.com/)
+- [Draw](https://excalidraw.com/)
 
 ## 🧩 Chrome Extensions
 - [Pesticide for Chrome](https://chromewebstore.google.com/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi)
