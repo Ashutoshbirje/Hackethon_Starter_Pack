@@ -1,0 +1,82 @@
+
+| Emoji | Meaning            |
+| ----- | ------------------ |
+| 🟢    | Active             |
+| 🔴    | Error              |
+| 🟡    | Warning            |
+| 🔵    | Info               |
+| ⚫     | Inactive           |
+| 🟣    | Processing         |
+| 🧊    | Frozen / Idle      |
+| 🪄    | Magic / Automation |
+| 🧭    | Navigation         |
+| 🎯    | Target/Goal        |
+
+| Emoji | Meaning        |
+| ----- | -------------- |
+| 🌿    | Git Branch     |
+| 📍    | Commit Point   |
+| 🌀    | Merge Conflict |
+| 🗃️   | Repository     |
+| ✨     | New Feature    |
+| 🗑️   | Removed        |
+| 🧹    | Cleanup        |
+| ⚠️    | Warning        |
+| 🔥    | Hotfix         |
+
+| Emoji | Meaning                 |
+| ----- | ----------------------- |
+| 🚀    | Launch / Start / Deploy |
+| 🔧    | Development             |
+| 🧪    | Testing                 |
+| 🐛    | Bug                     |
+| ✅     | Completed               |
+| 🔄    | Refresh / Reload        |
+| ⏳     | Loading / Waiting       |
+| 🛠️   | Tools                   |
+| 📌    | Pin / Important Task    |
+| 🗓️   | Scheduled               |
+| ⛏️    | Build Process           |
+| 📈    | Metrics / Logs          |
+| 🧵    | Threads / Processes     |
+
+| Emoji | Meaning        |
+| ----- | -------------- |
+| 🌐    | Web App        |
+| 🌍    | Global Site    |
+| 🛰️   | Deployment     |
+| 🌎    | Frontend       |
+| 🌏    | Backend        |
+| 🔐    | Authentication |
+| 🔒    | Security       |
+| 🔓    | Public Access  |
+
+| Emoji | Meaning                   |
+| ----- | ------------------------- |
+| 💻    | Computer / Developer Tool |
+| ⚙️    | Settings / Config         |
+| 🖥️   | Monitor / Desktop App     |
+| 📦    | Package / Dependency      |
+| 🧩    | Plugin / Extension        |
+| 🔌    | API / Integration         |
+| 🧮    | Backend Logic             |
+| 🗃️   | Database                  |
+| 🌐    | Internet / Web            |
+| 🛠️   | Development Tool          |
+| 📟    | Terminal                  |
+| 📡    | Network/API Communication |
+
+| Emoji | Meaning                            |
+| ----- | ---------------------------------- |
+| 📁    | Folder                             |
+| 📂    | Open Folder                        |
+| 🗂️   | Card Index Dividers (multi-folder) |
+| 📄    | Document                           |
+| 📃    | Page with Curl                     |
+| 📝    | Memo / Notes                       |
+| 📑    | Bookmark Tabs                      |
+| 📊    | Chart (data file)                  |
+| 🗃️   | File Cabinet                       |
+| 🗄️   | File Drawer                        |
+| 🗒️   | Spiral Notepad                     |
+| 📅    | Calendar File                      |
