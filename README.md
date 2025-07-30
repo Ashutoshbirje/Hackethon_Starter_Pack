@@ -94,7 +94,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - [widecanvas](https://www.widecanvas.ai/)
 - [Framer](https://www.framer.com/)
 - [Mixo](https://www.mixo.io/)
-  
+- [Copy](https://copycoder.ai/)
+
 ## 🎨 Icons
 - [Font Awesome](https://fontawesome.com/)
 - [PNG Wing](https://www.pngwing.com/)
