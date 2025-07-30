@@ -60,7 +60,14 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - [Tailwind](https://tailwindcss.com/)
 - [NPM](https://www.npmjs.com/)
 - [Draw](https://excalidraw.com/)
-
+  
+## 🧾 Documentation 
+- [Scopus](https://www.scopus.com/sources.uri)
+- [Scholar](https://scholar.google.com/)
+- [Clarivate](https://mjl.clarivate.com/home)
+- [Semanticscholar](https://www.semanticscholar.org/)
+- [Scholarcy](https://www.scholarcy.com/)
+  
 ## 🧩 Chrome Extensions
 - [Pesticide for Chrome](https://chromewebstore.google.com/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi)
 - [HTML Tree Generator](https://chromewebstore.google.com/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg)
