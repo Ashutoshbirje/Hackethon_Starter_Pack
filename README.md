@@ -87,6 +87,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - [Shields.io (Badges)](https://shields.io/)
 - [Anime.js](https://animejs.com/)
 - [Favicon Generator](https://www.favicon.cc/)
+- [Lovable](https://lovable.dev/)
+- [Cursor](https://cursor.com/)
 
 ## 🎨 Icons
 - [Font Awesome](https://fontawesome.com/)
