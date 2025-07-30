@@ -89,7 +89,12 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - [Favicon Generator](https://www.favicon.cc/)
 - [Lovable](https://lovable.dev/)
 - [Cursor](https://cursor.com/)
-
+- [V0](https://v0.dev/)
+- [wix](https://www.wix.com/)
+- [widecanvas](https://www.widecanvas.ai/)
+- [Framer](https://www.framer.com/)
+- [Mixo](https://www.mixo.io/)
+  
 ## 🎨 Icons
 - [Font Awesome](https://fontawesome.com/)
 - [PNG Wing](https://www.pngwing.com/)
