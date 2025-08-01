@@ -96,6 +96,11 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - [Mixo](https://www.mixo.io/)
 - [Copy](https://copycoder.ai/)
 
+## 🎨 Animation 
+- [Lottiefiles](https://lottiefiles.com/)
+- [iconscout](https://iconscout.com/)
+- [Motionelement](https://www.motionelements.com/)
+  
 ## 🎨 Icons
 - [Font Awesome](https://fontawesome.com/)
 - [PNG Wing](https://www.pngwing.com/)
