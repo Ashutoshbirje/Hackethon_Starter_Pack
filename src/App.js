@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
        {/* <Component/> */}
-       <h1>Welcome to Platform</h1>
+       <h1>Welcome to CampusHire</h1>
     </div>
   );
 }
