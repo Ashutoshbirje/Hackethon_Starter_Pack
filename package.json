@@ -2,6 +2,7 @@
   "name": "hackethon_starter_pack",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ashutoshbirje.github.io/Hackethon_Starter_Pack",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/react": "^16.3.0",
