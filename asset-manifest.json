@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.964fdded.css",
-    "main.js": "/static/js/main.add77426.js",
-    "index.html": "/index.html",
-    "main.964fdded.css.map": "/static/css/main.964fdded.css.map",
-    "main.add77426.js.map": "/static/js/main.add77426.js.map"
+    "main.css": "/Hackethon_Starter_Pack/static/css/main.964fdded.css",
+    "main.js": "/Hackethon_Starter_Pack/static/js/main.add77426.js",
+    "index.html": "/Hackethon_Starter_Pack/index.html",
+    "main.964fdded.css.map": "/Hackethon_Starter_Pack/static/css/main.964fdded.css.map",
+    "main.add77426.js.map": "/Hackethon_Starter_Pack/static/js/main.add77426.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
