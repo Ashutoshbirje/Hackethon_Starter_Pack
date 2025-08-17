@@ -1,4 +1,5 @@
 import './App.css';
+import '@testing-library/jest-dom'; 
 // import Component from './components/Component';
 
 function App() {
